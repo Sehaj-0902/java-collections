@@ -36,4 +36,4 @@ public class InvertMap {
 Output:
     Original Map: {A=1, B=2, C=1}
     Inverted Map: {1=[A, C], 2=[B]}
- */
+*/
